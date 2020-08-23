@@ -16,7 +16,7 @@
 <br>
 <br>
 
-#**Languages and Tools:**  
+# **Languages and Tools:**  
 
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png" title="HTML"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/css.png" title="CSS"></code>
