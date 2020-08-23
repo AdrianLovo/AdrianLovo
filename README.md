@@ -40,7 +40,7 @@
 
 
 <a href="https://github.com/AdrianLovo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianLovo&show_icons=true" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianLovo&hide=contribs,pr" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/AdrianLovo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLovo&layout=compact" />
