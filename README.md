@@ -39,11 +39,10 @@
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/ubuntu.png" title="Linux_ubuntu"></code>
 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/AdrianLovo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLovo&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/AdrianLovo">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianLovo&show_icons=true" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLovo&layout=compact" />
-</a>
-
 
