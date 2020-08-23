@@ -18,7 +18,7 @@
 
 **Languages and Tools:**  
 
-<code style="background-color: white !important;"><img style="background-color: white !important;" height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png" title="HTML"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png" title="HTML"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/css.png" title="CSS"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/bootstrap.png" title="Bootstrap"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javascript.png" title="JavaScript"></code>
@@ -39,5 +39,11 @@
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/ubuntu.png" title="Linux_ubuntu"></code>
 
 
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLovo&layout=compact" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianLovo&show_icons=true" alt="Pawan's github stats"/>
+</a>
 
 
