@@ -3,7 +3,6 @@
 <a href="https://www.facebook.com/adrian.humberto.12/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
 <a href="https://github.com/adrianlovo">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
