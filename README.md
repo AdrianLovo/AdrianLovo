@@ -18,8 +18,8 @@
 
 **Languages and Tools:**  
 
-<img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png" title="HTML">
-<img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/css.png" title="CSS">
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png" title="HTML"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/css.png" title="CSS"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/bootstrap.png" title="Bootstrap"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javascript.png" title="JavaScript"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/jquery.png" title="JQuery"></code>
