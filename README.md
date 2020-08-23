@@ -8,9 +8,9 @@
 </a>
 <br>
 <br>
-- 🌱 I’m currently learning Frameworks JS and Php Laravel.
+- 🌱 I’m currently learning Frameworks JavaScript and PHP Laravel.
 <br>
-- 💬 Ask me about Php or any tech related stuff.
+- 💬 Ask me about PPHP or any tech related stuff.
 <br>
 - ⚡ Fun fact: My favorite writer is Isaac Asimov... You have to read the foundation!
 <br>
