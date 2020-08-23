@@ -18,7 +18,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png"></code>
+<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png" title="Html"></code>
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/css.png"></code>
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/bootstrap.png"></code>
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javascript.png"></code>
@@ -30,6 +30,7 @@
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javaee.png"></code>
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/vscode.png"></code>
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/c.png"></code>
+<br>
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/db2.png"></code>
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/mysql.png"></code>
 <code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/postgressql.png"></code>
