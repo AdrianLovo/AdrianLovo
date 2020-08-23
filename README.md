@@ -18,7 +18,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" style="background-color: white;" width="20" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png"></code>
+<code><img height="20" width="20" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png"></code>
 <code><img height="20" src="https://adrianlovo.github.io/Resources/img/Lenguajes/css.png"></code>
 <code><img height="20" src="https://adrianlovo.github.io/Resources/img/Lenguajes/bootstrap.png"></code>
 <code><img height="20" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javascript.png"></code>
