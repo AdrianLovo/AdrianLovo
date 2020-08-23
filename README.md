@@ -3,15 +3,20 @@
 <a href="https://www.facebook.com/adrian.humberto.12/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br>
 <a href="https://github.com/adrianlovo">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
 <br/>
 <br/>
 - 🌱 I’m currently learning Frameworks JS and Php Laravel.
+<br>
 - 💬 Ask me about Php or any tech related stuff.
+<br>
 - ⚡ Fun fact: My favorite writer is Isaac Asimov... You have to read the foundation!
-
+<br>
+<br>
 
 **Languages and Tools:**  
 
