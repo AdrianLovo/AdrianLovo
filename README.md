@@ -18,25 +18,26 @@
 
 **Languages and Tools:**  
 
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png" title="Html"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/css.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/bootstrap.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javascript.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/jquery.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/vue.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/php.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/laravel.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javase.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javaee.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/vscode.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/c.png"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/html.png" title="HTML"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/css.png" title="CSS"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/bootstrap.png" title="Bootstrap"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javascript.png" title="JavaScript"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/jquery.png" title="JQuery"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/vue.png" title="Vue.js"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/php.png" title="PHP"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/laravel.png" title="Laravel"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javase.png" title="JavaSE"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javaee.png" title="JavaEE"></code>
 <br>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/db2.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/mysql.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/postgressql.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/sqlserver.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/windows.png"></code>
-<code><img height="48" src="https://adrianlovo.github.io/Resources/img/Lenguajes/ubuntu.png"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/vscode.png" title="Visual Basic"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/c.png" title="C"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/db2.png" title="DB2"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/mysql.png" title="Mysql"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/postgressql.png" title="PostgreSQL"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/sqlserver.png" title="SQLServer"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/windows.png" title="Windows"></code>
+<code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/ubuntu.png" title"Linux/ubuntu"></code>
+
 
 
 
