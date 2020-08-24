@@ -10,7 +10,7 @@
 <br>
 - 🌱 I’m currently learning Frameworks JavaScript and PHP Laravel.
 <br>
-- 💬 Ask me about PPHP or any tech related stuff.
+- 💬 Ask me about PHP or any tech related stuff.
 <br>
 - ⚡ Fun fact: My favorite writer is Isaac Asimov... You have to read the foundation!
 <br>
