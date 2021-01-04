@@ -27,8 +27,8 @@
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/php.png" title="PHP"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/laravel.png" title="Laravel"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javase.png" title="JavaSE"></code>
-<br>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/javaee.png" title="JavaEE"></code>
+<br>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/vscode.png" title="Visual Basic"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/c.png" title="C"></code>
 <code><img height="40" src="https://adrianlovo.github.io/Resources/img/Lenguajes/db2.png" title="DB2"></code>
